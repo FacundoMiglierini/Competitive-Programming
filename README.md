@@ -6,6 +6,8 @@ All the problems exposed here were approved by Vjudge: https://vjudge.net/
 
 My profile: https://vjudge.net/user/facumiglierini
 
+*List with solved Problems*
+
 - Warming Up 1:
     - Hartals
     - Snack
